@@ -38,6 +38,22 @@
   <name>Inverness SYHA</name>
   <sym>images/icon-9.png</sym>
 </wpt>
+<wpt lat="57.4799" lon="-5.5042">
+  <name>Torridon SYHA</name>
+  <sym>images/icon-10.png</sym>
+</wpt>
+<wpt lat="57.782503" lon="-5.037907">
+  <name>Forest Way B&B</name>
+  <sym>images/icon-11.png</sym>
+</wpt>
+<wpt lat="58.5636" lon="-4.7228">
+  <name>Durness SYHA</name>
+  <sym>images/icon-12.png</sym>
+</wpt>
+<wpt lat="58.437540" lon="-3.084847">
+  <name>Wick Bay Guest HOuse</name>
+  <sym>images/icon-13.png</sym>
+</wpt>
 <trk>
   <name>NorthCoast500-2</name>
   <trkseg>
